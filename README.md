@@ -12,6 +12,8 @@ And a CustomAnalyzer
 # Running Project
 Grant Permission to bash script to automatically unzip trec_eval.zip, build java lucene project, and trecEval 
 ```
+git clone https://github.com/QUzair/LuceneSE.git
+
 chmod u+x trecEval.sh
 
 ./trecEval.sh
