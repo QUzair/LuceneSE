@@ -1,6 +1,9 @@
 #!/bin/bash
 
 tar xvf trec_eval.zip
+cd trec_eval.9.0
+make
+cd ..
 mvn compile
 mvn package
 java -jar target/UziLuceneSE-1.0-SNAPSHOT.jar
