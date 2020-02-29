@@ -27,6 +27,8 @@ Main Classes:
 	> Parses Cran Queries File and creates DockRank for queries
 - CranfieldModel
 	> Basic model for field in cranfield doc (id,title,author,biblio,content)
+- PersonalQueries
+	> Class to create custom queries for created Index
 - Main
 	> Main class which indexes and searches with different analyzers and similarity classes
 	
