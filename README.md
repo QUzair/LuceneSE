@@ -83,8 +83,12 @@ return new TokenStreamComponents(source, tokenStream);
 
 As can be seen bm25 provides the best results along with the CustomAnalyzer.
 
-![alt text][logo]
+![alt text][eq]
 
-[logo]: https://wikimedia.org/api/rest_v1/media/math/render/svg/43e5c609557364f7836b6b2f4cd8ea41deb86a96
+[eq]: https://wikimedia.org/api/rest_v1/media/math/render/svg/43e5c609557364f7836b6b2f4cd8ea41deb86a96
+
+![alt text][graph]
+
+[graph]: https://github.com/QUzair/LuceneSE/blob/master/rec_precision.png?raw=true
 
 
