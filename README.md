@@ -20,6 +20,16 @@ chmod u+x trecEval.sh
 
 # Files In Project
 
+Main Classes:
+- CranFileParser.java
+	> Parses Cran Docs File and Index it with specified Analyzer
+- CranfieldQueries
+	> Parses Cran Queries File and creates DockRank for queries
+- CranfieldModel
+	> Basic model for field in cranfield doc (id,title,author,biblio,content)
+- Main
+	> Main class which indexes and searches with different analyzers and similarity classes
+	
 Within cran folder:
 - cran.all.1400
 	> Contains 1400 documents from the Cranfield Collection.
