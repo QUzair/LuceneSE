@@ -1,6 +1,7 @@
 # Cranfield Collection Lucene SE
 
 A search engine built upon the cranfield collection for  **"CS7IS3 INFORMATION RETRIEVAL AND WEB SEARCH**. 
+Read Report - [here](https://github.com/QUzair/LuceneSE/blob/master/1_IR_Uzair_15318872.pdf)
 
 Ran similarities
 - tfidf
