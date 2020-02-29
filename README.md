@@ -15,6 +15,8 @@ Grant Permission to bash script to automatically unzip trec_eval.zip, build java
 ```
 git clone https://github.com/QUzair/LuceneSE.git
 
+cd LuceneSE
+
 chmod u+x trecEval.sh
 
 ./trecEval.sh
